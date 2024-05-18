@@ -1,5 +1,4 @@
 import { UserCircle } from '@phosphor-icons/react'
-import React from 'react'
 import './ticket.css'
 
 const Ticket = () => {
